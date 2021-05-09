@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=326703389397:region=us-east-1": [
+    "us-east-1a",
+    "us-east-1b",
+    "us-east-1c",
+    "us-east-1d",
+    "us-east-1e",
+    "us-east-1f"
+  ],
+  "ami:account=326703389397:filters.image-type.0=machine:filters.name.0=amzn2-ami-hvm-2.0.20210421.0-x86_64-gp2:filters.state.0=available:region=us-east-1": "ami-048f6ed62451373d9"
+}
